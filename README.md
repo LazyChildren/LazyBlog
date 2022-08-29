@@ -1,4 +1,4 @@
-# LazyBot
+# LazyBlog
 
 Finished:
   write
